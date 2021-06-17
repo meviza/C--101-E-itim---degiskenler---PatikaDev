@@ -1,0 +1,4 @@
+C:\Users\kerem\OneDrive\Masaüstü\Pratikler\degiskenler\obj\Debug\netcoreapp3.1\degiskenler.csprojAssemblyReference.cache
+C:\Users\kerem\OneDrive\Masaüstü\Pratikler\degiskenler\obj\Debug\netcoreapp3.1\degiskenler.AssemblyInfoInputs.cache
+C:\Users\kerem\OneDrive\Masaüstü\Pratikler\degiskenler\obj\Debug\netcoreapp3.1\degiskenler.AssemblyInfo.cs
+C:\Users\kerem\OneDrive\Masaüstü\Pratikler\degiskenler\obj\Debug\netcoreapp3.1\degiskenler.csproj.CoreCompileInputs.cache
